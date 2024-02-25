@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs
+content-type: application/json
+
+{
+  "title": "How to Forecast Time Series Data Using any Supervised Learning Model",
+  "author": "Matthew Turk",
+  "url": "https://towardsdatascience.com/how-to-forecast-time-series-data-using-any-supervised-learning-model-02dd62cd4bda",
+  "likes": 983
+}
